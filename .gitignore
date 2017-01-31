@@ -1,6 +1,7 @@
 # logs
 logs/*
 */Output/*
+Models/
 .log
 
 # plots
