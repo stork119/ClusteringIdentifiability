@@ -1,3 +1,13 @@
+# logs
+logs/*
+*/Output/*
+.log
+
+# plots
+*.pdf
+*.png
+
+#R 
 .Rproj.user
 .Rhistory
 .RData
