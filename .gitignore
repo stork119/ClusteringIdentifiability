@@ -7,9 +7,15 @@ Models/
 # plots
 *.pdf
 *.png
+*.jpg
 
 #R 
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
+
+# archive
+.zip
+.tar.gz
+.tar
